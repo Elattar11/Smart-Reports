@@ -1,0 +1,30 @@
+C:\Users\MOHAMED\source\repos\Etisalat Smart Reports\Etisalat Smart Reports\bin\Debug\Etisalat Smart Reports.exe.config
+C:\Users\MOHAMED\source\repos\Etisalat Smart Reports\Etisalat Smart Reports\bin\Debug\Etisalat Smart Reports.exe
+C:\Users\MOHAMED\source\repos\Etisalat Smart Reports\Etisalat Smart Reports\bin\Debug\Etisalat Smart Reports.pdb
+C:\Users\MOHAMED\source\repos\Etisalat Smart Reports\Etisalat Smart Reports\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\MOHAMED\source\repos\Etisalat Smart Reports\Etisalat Smart Reports\bin\Debug\ExcelDataReader.dll
+C:\Users\MOHAMED\source\repos\Etisalat Smart Reports\Etisalat Smart Reports\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\MOHAMED\source\repos\Etisalat Smart Reports\Etisalat Smart Reports\bin\Debug\Z.Dapper.Plus.dll
+C:\Users\MOHAMED\source\repos\Etisalat Smart Reports\Etisalat Smart Reports\bin\Debug\ExcelDataReader.pdb
+C:\Users\MOHAMED\source\repos\Etisalat Smart Reports\Etisalat Smart Reports\bin\Debug\ExcelDataReader.xml
+C:\Users\MOHAMED\source\repos\Etisalat Smart Reports\Etisalat Smart Reports\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\MOHAMED\source\repos\Etisalat Smart Reports\Etisalat Smart Reports\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\MOHAMED\source\repos\Etisalat Smart Reports\Etisalat Smart Reports\bin\Debug\Z.Dapper.Plus.xml
+C:\Users\MOHAMED\source\repos\Etisalat Smart Reports\Etisalat Smart Reports\obj\Debug\Etisalat Smart Reports.csproj.SuggestedBindingRedirects.cache
+C:\Users\MOHAMED\source\repos\Etisalat Smart Reports\Etisalat Smart Reports\obj\Debug\Etisalat_Smart_Reports.Layers.FRMRejectionMain.resources
+C:\Users\MOHAMED\source\repos\Etisalat Smart Reports\Etisalat Smart Reports\obj\Debug\Etisalat_Smart_Reports.MainForm.resources
+C:\Users\MOHAMED\source\repos\Etisalat Smart Reports\Etisalat Smart Reports\obj\Debug\Etisalat_Smart_Reports.MyMessageBox.resources
+C:\Users\MOHAMED\source\repos\Etisalat Smart Reports\Etisalat Smart Reports\obj\Debug\Etisalat_Smart_Reports.Properties.Resources.resources
+C:\Users\MOHAMED\source\repos\Etisalat Smart Reports\Etisalat Smart Reports\obj\Debug\Etisalat_Smart_Reports.RejectionForms.FRMEsclations.resources
+C:\Users\MOHAMED\source\repos\Etisalat Smart Reports\Etisalat Smart Reports\obj\Debug\Etisalat_Smart_Reports.RejectionForms.FRMFCRCahrt.resources
+C:\Users\MOHAMED\source\repos\Etisalat Smart Reports\Etisalat Smart Reports\obj\Debug\Etisalat_Smart_Reports.RejectionForms.FRMJustificationUpdate.resources
+C:\Users\MOHAMED\source\repos\Etisalat Smart Reports\Etisalat Smart Reports\obj\Debug\Etisalat_Smart_Reports.RejectionForms.FRMMoreInfo.resources
+C:\Users\MOHAMED\source\repos\Etisalat Smart Reports\Etisalat Smart Reports\obj\Debug\Etisalat_Smart_Reports.RejectionForms.FRMPivotRejection.resources
+C:\Users\MOHAMED\source\repos\Etisalat Smart Reports\Etisalat Smart Reports\obj\Debug\Etisalat_Smart_Reports.RejectionForms.FRMRejectedTickets.resources
+C:\Users\MOHAMED\source\repos\Etisalat Smart Reports\Etisalat Smart Reports\obj\Debug\Etisalat_Smart_Reports.RejectionForms.FRMRowDataRejection.resources
+C:\Users\MOHAMED\source\repos\Etisalat Smart Reports\Etisalat Smart Reports\obj\Debug\Etisalat Smart Reports.csproj.GenerateResource.cache
+C:\Users\MOHAMED\source\repos\Etisalat Smart Reports\Etisalat Smart Reports\obj\Debug\Etisalat Smart Reports.csproj.CoreCompileInputs.cache
+C:\Users\MOHAMED\source\repos\Etisalat Smart Reports\Etisalat Smart Reports\obj\Debug\Etisalat Smart Reports.csproj.CopyComplete
+C:\Users\MOHAMED\source\repos\Etisalat Smart Reports\Etisalat Smart Reports\obj\Debug\Etisalat Smart Reports.exe
+C:\Users\MOHAMED\source\repos\Etisalat Smart Reports\Etisalat Smart Reports\obj\Debug\Etisalat Smart Reports.pdb
+C:\Users\MOHAMED\source\repos\Etisalat Smart Reports\Etisalat Smart Reports\obj\Debug\Etisalat Smart Reports.csproj.AssemblyReference.cache
